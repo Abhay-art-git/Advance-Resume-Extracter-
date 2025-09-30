@@ -25,15 +25,15 @@ The project leverages **Natural Language Processing (NLP)** and **Machine Learni
 ---
 
 ## 📂 Repository Structure  
-├── data/ # Sample resumes for testing
-├── notebooks/ # Jupyter notebooks for experiments
-├── src/ # Source code
-│ ├── extractor.py # Main extraction pipeline
-│ ├── parser.py # Resume parsing logic
-│ ├── utils.py # Helper functions
-├── results/ # Extracted JSON/CSV output
-├── requirements.txt # Project dependencies
-└── README.md # Project documentation
+├── data/ 
+├── notebooks/ 
+├── src/ 
+│ ├── extractor.py
+│ ├── parser.py 
+│ ├── utils.py 
+├── results/ 
+├── requirements.txt 
+└── README.md 
 
 yaml
 Copy code
