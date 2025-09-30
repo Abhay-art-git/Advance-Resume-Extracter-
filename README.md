@@ -35,9 +35,6 @@ The project leverages **Natural Language Processing (NLP)** and **Machine Learni
 ├── requirements.txt 
 └── README.md 
 
-yaml
-Copy code
-
 ---
 
 ## ⚙️ How to Run  
