@@ -24,19 +24,6 @@ The project leverages **Natural Language Processing (NLP)** and **Machine Learni
 
 ---
 
-## 📂 Repository Structure  
-├── data/ 
-├── notebooks/ 
-├── src/ 
-│ ├── extractor.py
-│ ├── parser.py 
-│ ├── utils.py 
-├── results/ 
-├── requirements.txt 
-└── README.md 
-
----
-
 ## ⚙️ How to Run  
 
 1. Clone the repository  
