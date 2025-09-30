@@ -28,4 +28,4 @@ The project leverages **Natural Language Processing (NLP)** and **Machine Learni
 
 1. Clone the repository  
    ```bash
-   git clone https://github.com/your-username/advanced-resume-extractor.git
+   git clone https://github.com/Abhay-art-git/Advance-Resume-Extracter.git
